@@ -6,6 +6,6 @@ public class StudentsMainImpl {
         studentMarks.calculateMarks(35,36,39);
         studentMarks.calculateMarks(41,49,80,95);
         studentMarks.calculateMarks(23,36,45);
-        
+
     }
 }
